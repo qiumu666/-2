@@ -1,1 +1,1 @@
-gg.alert("测试")
+gg.alert("试")
