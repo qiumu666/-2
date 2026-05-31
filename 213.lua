@@ -1,1 +1,1 @@
-gg.alert("试")
+gg.alert("无敌123")
